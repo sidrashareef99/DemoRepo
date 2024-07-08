@@ -1,0 +1,9 @@
+hello
+
+Per Scholas 
+
+GitLab #1 7/2/2024
+
+Learning how to commit and make changes to files. 
+
+make change to file -> add filename.txt -> commit -m "details about commit" 
